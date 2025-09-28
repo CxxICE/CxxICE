@@ -7,10 +7,10 @@
 ---
 ### Навыки  
 >***IT***  
->`C/C++` `STL` `Boost` `Make` `CMake` `Docker` `Git` `Catch2` `PostgreSQL` `libpqxx` `wtdbo` `libiconv` `Qt` `IoT Arduino` `Unreal Engine` `Linux` `Bash` `CMD Windows` `VBScript` `Асинхронное программирование` `Design Patterns` `Алгоритмы и структуры данных` `Компьютерные сети`
+>`C/C++` `Go` `STL` `Boost` `Make` `CMake` `Docker` `Git` `Catch2` `PostgreSQL` `libpqxx` `wtdbo` `libiconv` `Qt` `IoT Arduino` `Unreal Engine` `Linux` `Bash` `CMD Windows` `VBScript` `Асинхронное программирование` `Design Patterns` `Алгоритмы и структуры данных` `Компьютерные сети` `Ethernet` `TCP` `UDP` `http`
 
 >***Кроме IT***  
->`AutoCAD` `E3.series` `САПР` `MS Office` `Разработка схем электрических полных` `Релейная защита и автоматика` `ЕСКД` `ПУЭ` `BIM` `Проектная документация` `Электрические сети` `АЭС` `ДГУ` `Блок Генератор-Трансформатор` `КРУ 6-10 кВ`  
+>`AutoCAD` `E3.series` `САПР` `MS Office` `Разработка схем электрических полных` `Релейная защита и автоматика` `ЕСКД` `ПУЭ` `BIM` `Проектная документация` `Электрические сети` `АЭС` `ДГУ` `Блок Генератор-Трансформатор` `КРУ 6-10 кВ` `Электродвигатели` `МЭК 61850`
 
 ---
 ### Мои работы
@@ -42,7 +42,7 @@
 ### Детальная программа обучения с разделами и ссылками  
 - [Программа.pdf](./docs/Программа%20обучения.pdf)  
 
-### Основное содержание программы
+### Обучение 
 
 **![](https://geps.dev/progress/100)  1. Разработчик на С++. Нетология (Диплом о профессиональной переподготовке 616 ак. ч.)**  
 - С++  
@@ -86,21 +86,43 @@
 **![](https://geps.dev/progress/100)  11. Docker**   
 - [YouTube. Docker](https://www.youtube.com/watch?v=O8N1lvkIjig&list=PLMj0F28ZbVqMP7E5QXIrAMCWTjSIiTbui&index=1)  
 
-**![](https://geps.dev/progress/100)  12. Книга Паттерны Объектно-Ориентированного Проектирования. Гамма Э., Хелм Р., Джонсон Р., Влиссидес Дж.**  
-**![](https://geps.dev/progress/100)  13. Книга Функциональное программирование на языке C++. Чукич И.**  
-**![](https://geps.dev/progress/100)  14. Книга С++ Concurrency in action. Williams A.**  
-**![](https://geps.dev/progress/100)  15. Книга Грокаем алгоритмы. Бхаргава А.**  
-**![](https://geps.dev/progress/50)  16. Книга C++. Полное руководство. Классическое издание. Герберт Шилдт**  
-**![](https://geps.dev/progress/30)  17. Книга Эффективный и современный С++: 42 рекомендации по использованию C++11 и C++14. Мейерс Скотт**  
-**![](https://geps.dev/progress/30)  18. Книга Beginning C++20: From Novice to Professional (2020). Ivor Horton, Peter Van Weert**  
-**![](https://geps.dev/progress/30)  19. Книга Learning Boost C++ Libraries. Arindam Mukherjee**  
+**![](https://geps.dev/progress/100)  12. Go (Golang) - первое знакомство. Stepik (сертификат)**
+- [Go (Golang) - первое знакомство](https://stepik.org/course/100208/)
+
+**![](https://geps.dev/progress/100)  13. Основы Golang. Stepik (сертификат)**
+- [Основы Golang](https://stepik.org/course/211704/)
+
+**![](https://geps.dev/progress/100)  14. Стандартная библиотека Go. Stepik (сертификат)**
+- [Thank Go! Стандартная библиотека Golang](https://stepik.org/course/133305/)
+
+**![](https://geps.dev/progress/30)  15. Продвинутый Golang. Stepik**
+- [Продвинутый Golang](https://stepik.org/course/223447/)
+
+**![](https://geps.dev/progress/55)  16. Go практика. Stepik**
+- [Go (Golang) Турбо](https://stepik.org/course/186513/)
+
+**![](https://geps.dev/progress/35)  17. С++ практика. Stepik**
+- [Тренажер С++](https://stepik.org/course/199780/)
 
 ---
-### Код-шпаргалки (мои примеры кода C++ для копирования синтаксических конструкций)
-[Google Drive. C++ Projects](https://drive.google.com/drive/folders/1LhtBWmUUXrAAMANe_ad3fuO40DEL60RC?usp=sharing)  
+### Литература
+**![](https://geps.dev/progress/100)  1. Паттерны Объектно-Ориентированного Проектирования. Гамма Э., Хелм Р., Джонсон Р., Влиссидес Дж.**  
+**![](https://geps.dev/progress/100)  2. Функциональное программирование на языке C++. Чукич И.**  
+**![](https://geps.dev/progress/100)  3. С++ Concurrency in action. Williams A.**  
+**![](https://geps.dev/progress/100)  4. Грокаем алгоритмы. Бхаргава А.**  
+**![](https://geps.dev/progress/50)  5. C++. Полное руководство. Классическое издание. Герберт Шилдт**  
+**![](https://geps.dev/progress/30)  6. Эффективный и современный С++: 42 рекомендации по использованию C++11 и C++14. Мейерс Скотт**  
+**![](https://geps.dev/progress/30)  7. Beginning C++20: From Novice to Professional (2020). Ivor Horton, Peter Van Weert**  
+**![](https://geps.dev/progress/30)  8. Learning Boost C++ Libraries. Arindam Mukherjee**  
+**![](https://geps.dev/progress/15)  9. Язык программирования Go. Алан А. А. Донован, Брайан У. Керниган**
+
+---
+### Код-шпаргалки (мои примеры кода для копирования синтаксических конструкций)
+[Google Drive. C++ Lectures](https://drive.google.com/drive/folders/1LhtBWmUUXrAAMANe_ad3fuO40DEL60RC?usp=sharing)  
 [Google Drive. CLR .Net Framework](https://drive.google.com/drive/folders/1_vBlcM6oozSb9O6v5cuZawDjOn-9acET?usp=sharing)  
 [Google Drive. Операционные системы](https://drive.google.com/drive/folders/10-YOy9cxCJiS64qCgsE5UQJYvfxCdMUh?usp=sharing)  
 [Google Drive. Linux C++](https://drive.google.com/drive/folders/1CMc1NXByeGAjZNcmXtfsD7tbbWLttWdV?usp=sharing)  
+[Google Drive. Go Lectures](https://drive.google.com/drive/folders/1tGxMMBgQodRhgYtRJfokfflnC6j-ml2s?usp=sharing)  
 
 ---
 ### Текстовые шпаргалки по программированию, лекции  
