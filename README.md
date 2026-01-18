@@ -95,10 +95,10 @@
 **![](https://geps.dev/progress/100)  14. Стандартная библиотека Go. Stepik (сертификат)**
 - [Thank Go! Стандартная библиотека Golang](https://stepik.org/course/133305/)
 
-**![](https://geps.dev/progress/30)  15. Продвинутый Golang. Stepik**
+**![](https://geps.dev/progress/100)  15. Продвинутый Golang. Stepik (сертификат)**
 - [Продвинутый Golang](https://stepik.org/course/223447/)
 
-**![](https://geps.dev/progress/55)  16. Go практика. Stepik**
+**![](https://geps.dev/progress/100)  16. Go практика. Stepik (сертификат)**
 - [Go (Golang) Турбо](https://stepik.org/course/186513/)
 
 **![](https://geps.dev/progress/35)  17. С++ практика. Stepik**
